@@ -1,2 +1,0 @@
-# TesteChartComponent
-Created with CodeSandbox
